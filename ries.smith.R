@@ -1,0 +1,15 @@
+"ries.smith" <-
+structure(list(Brand = structure(c(1, 2, 1, 2, 1, 2, 1, 2, 1, 
+2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2), .Label = c("X", 
+"M"), class = "factor"), Temp = structure(c(1, 1, 2, 2, 1, 1, 
+2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1, 2, 2), .Label = c("Low", 
+"High"), class = "factor"), M.user = structure(c(1, 1, 1, 1, 
+2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2), .Label = c("N", 
+"Y"), class = "factor"), Soft = structure(c(1, 1, 1, 1, 1, 1, 
+1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3), .Label = c("Hard", 
+"Medium", "Soft"), class = "factor"), Freq = c(68, 42, 42, 30, 
+37, 52, 24, 43, 66, 50, 33, 23, 47, 55, 23, 47, 63, 53, 29, 27, 
+57, 49, 19, 29)), .Names = c("Brand", "Temp", "M.user", "Soft", 
+"Freq"), row.names = c("1", "2", "3", "4", "5", "6", "7", "8", 
+"9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", 
+"20", "21", "22", "23", "24"), class = "data.frame")
