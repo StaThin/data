@@ -1,0 +1,17 @@
+credit_card <-
+structure(list(income = c(12L, 13L, 14L, 14L, 14L, 14L, 14L, 
+14L, 14L, 14L, 15L, 15L, 15L, 15L, 15L, 15L, 15L, 15L, 15L, 15L, 
+15L, 15L, 15L, 15L, 16L, 16L, 16L, 16L, 16L, 16L, 16L, 16L, 16L, 
+17L, 17L, 17L, 17L, 17L, 17L, 17L, 17L, 19L, 19L, 19L, 19L, 19L, 
+20L, 20L, 20L, 20L, 20L, 20L, 20L, 21L, 21L, 22L, 24L, 24L, 25L, 
+25L, 25L, 25L, 25L, 25L, 25L, 25L, 25L, 25L, 26L, 29L, 30L, 30L, 
+30L, 30L, 30L, 32L, 32L, 32L, 32L, 32L, 32L, 34L, 34L, 34L, 35L, 
+35L, 35L, 35L, 35L, 39L, 40L, 42L, 47L, 60L, 60L, 60L, 60L, 60L, 
+60L, 65L), y = c(0L, 0L, 1L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 
+1L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 
+0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 
+1L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 0L, 0L, 0L, 
+0L, 0L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 0L, 0L, 0L, 0L, 0L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 0L, 0L, 1L, 1L, 1L, 0L, 0L, 
+0L, 0L, 1L, 1L, 1L, 1L, 1L, 1L, 1L)), class = "data.frame", row.names = c(NA, 
+-100L))
